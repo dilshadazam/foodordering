@@ -1,0 +1,206 @@
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.menu-bar{
+    min-height: 8%;
+    background: #FF9800;
+  
+}
+.head
+{
+    
+    font-family:fantasy;
+   font-size: 25px;
+    width: auto;
+    color:black;
+}
+.nav-link{
+    
+    color:#fff;
+}
+.nav-link:hover{
+    
+    color:#000;
+}
+.active{
+    color:#000 ! important;
+}
+.navbar-toggler.fa 
+{
+color:#fff;    
+    
+}
+.navbar-toggler
+{
+    outline: none !important;
+}
+.banner{
+    min-height: 77%;
+    color: #555;
+
+}
+.banner img 
+{
+   width: 100%;
+
+}
+.info{
+    margin:24% auto;
+    
+
+}
+
+.info h1{
+    
+    font-size: 30px;
+}
+.info a{
+    
+    width:135px;
+    color:#fff !important;
+    text-decoration: none !important;
+    padding:15px;
+    margin: 5% 10px;
+    background: #FF9800;
+    display: inline-block;
+}
+.info .second-btn{
+    border: 1px solid #ff9800!important;
+    background: transparent !important;
+    color:#555 !important;
+    transition:0.5s;
+}
+.info .second-btn:hover{
+    background: #FF9800 !important;
+    color:#fff !important;
+}
+
+
+.footer-widget
+{
+    min-height: 15%
+  padding:21px 0;
+    background-color: #ff9800;
+   display:inline-flex;
+color:#000;
+     
+}
+.footer-text
+
+{   
+   
+text-align: center;
+    padding-left:500px;
+}
+
+.footer-widget .fa
+{
+    
+    font-size: 25px;
+}
+
+.center {
+text-align:center;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
+
+h3{
+    display: inline;
+    padding: 10px!important;
+}
+.heading{
+    font-family: jokerman;
+    font-style: italic;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: -35px;
+    top: 10px
+        background:red;
+}
+
+.logo{
+    position: relative;
+    left: 40px;
+    font-family: cursive;
+    color: white!important;
+}
+#id
+{
+    height: 150px;
+    width: 150px;
+}
+a.logo{
+    color: white!important;
+        
+}
+.cat{
+    background-color: #e66b07!important;
+    color: white!important;
+    
+}
+.catitem{
+    margin-top: 10px!important;
+}
+.pad{
+    padding: 5px;
+}
+
+.set{
+    position: absolute;
+    top: 10px;
+    float: right;
+}
+.login{
+    font-family: cursive;
+    color:#f29198!important;
+
+}
+a.login{
+    color: #f29198!important;
+}
+.loginform{
+    margin-top: 10px;
+    border: 2px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 15px;
+}
+mt{
+    margin-top: 10px!important;
+}
+.addpro
+{
+    margin-top: 10px;
+    border: 2px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 12px;
+}
+.updpro
+{
+    margin-top: 10px;
+    border: 2px solid #aaaaaa;
+    border-radius: 8px;
+    padding: 12px;
+}
+.Registerform
+{
+    margin-top: 10px;
+    border: 2px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.img{
+    
+    height: 60px;
+    width: 180px;
+}
+
+
